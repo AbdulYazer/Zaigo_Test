@@ -3,8 +3,6 @@ import 'package:flutter/material.dart';
 const kHeight = SizedBox(height: 10,);
 const kWidth = SizedBox(width: 10,);
 
-
-const TextStyle SignInBtnText = TextStyle(fontSize: 20, color: Colors.white);
 const TextStyle lawyerNameText =
     TextStyle(fontSize: 18, fontWeight: FontWeight.w600);
 const TextStyle lawyerFOEText =
